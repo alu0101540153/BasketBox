@@ -25,6 +25,8 @@ BasketBox is an interactive AI-powered basketball box simulation using Python, P
 - mediapipe
 - opencv-python
 
+![Image Example](images/example.png)
+
 ---
 
 ## Installation

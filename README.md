@@ -1,4 +1,5 @@
 # BasketBox
+(university project)
 
 ![BasketBox Logo](images/logoWhite.png)
 
